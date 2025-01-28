@@ -21,7 +21,7 @@ The dataset used for this project is the PlantVillage Dataset, which contains im
    
 7. **Building a Classifier System**: A Classifying function is built to process uploaded plant leaf images, classify them as either healthy or diseased, and provide the result. This system is integrated into a user-friendly Streamlit app for real-time predictions.
    
-8. **Deployment **: The trained model is deployed using Streamlit, allowing users to upload images, view predictions, and get quick diagnoses of plant health.
+8. **Deployment**: The trained model is deployed using Streamlit, allowing users to upload images, view predictions, and get quick diagnoses of plant health.
 
 ## Performance Metrics
 - **Validation Accuracy**: **88.11%**
